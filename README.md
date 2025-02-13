@@ -10,7 +10,7 @@
 </p>
 
 <!-- 기술스택 -->
-## 🖥️Tech Stacks
+## 🖥️ Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
