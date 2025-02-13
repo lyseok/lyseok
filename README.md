@@ -40,4 +40,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyseok&layout=compact&theme=algolia)
 
+## ⚙️ Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=seok000908)](https://solved.ac/seok000908)
+
+## Certificates
