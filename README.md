@@ -44,3 +44,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=seok000908)](https://solved.ac/seok000908)
 
 ## Certificates
+<ul>
+  <li>2024.09.10 <strong>정보리기사 - 한국산업인력공단</strong></li>
+</ul>
