@@ -1,4 +1,7 @@
-## Hi there 👋
+<p>
+  <!-- gmail -->
+  <img src="https://img.shields.io/badge/seok000908@gamil.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</p>
 
 <!--
 **lyseok/lyseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
