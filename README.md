@@ -38,5 +38,4 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=lyseok&theme=ambient_gradient&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyseok&layout=compact&theme=algolia)
