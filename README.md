@@ -39,4 +39,4 @@
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=lyseok&theme=ambient_gradient&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyseok&Donut_Chart_layout_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyseok&layout=compact&theme=algolia)
