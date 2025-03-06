@@ -44,5 +44,5 @@
 
 ## Certificates
 <ul>
-  <li>2024.09.10 <strong>정보리기사 - 한국산업인력공단</strong></li>
+  <li>2024.09.10 <strong>정보리기사 - 한국산업인력공단 </strong></li>
 </ul>
