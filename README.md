@@ -6,7 +6,10 @@
 <!-- badge -->
 <p align='center'>
   <!-- gmail -->
-  <img src="https://img.shields.io/badge/seok000908@gamil.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seok000908@gamil.com" target="_blank">
+    <img src="https://img.shields.io/badge/seok000908@gamil.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  
 </p>
 
 <!-- 기술스택 -->
