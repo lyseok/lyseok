@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyseok&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lyseok&layout=compact&theme=buefy)
 
 ## ⚙️ Algorithm
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=seok000908)](https://solved.ac/seok000908)
